@@ -1,4 +1,4 @@
-package at.alolutions.applications.pos.demoapp;
+package at.asolutions.applications.pos.demoapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

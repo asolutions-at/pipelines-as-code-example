@@ -1,4 +1,4 @@
-package at.alolutions.applications.pos.demoapp;
+package at.asolutions.applications.pos.demoapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

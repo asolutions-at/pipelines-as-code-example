@@ -8,7 +8,7 @@
         <version>3.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>at.alolutions.applications.pos</groupId>
+    <groupId>at.asolutions.applications.pos</groupId>
     <artifactId>demoApp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>demoApp</name>
